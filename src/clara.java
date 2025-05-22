@@ -18,6 +18,7 @@ public static void main(String[] args) throws FileNotFoundException {
 
     }
 }
+//klop
 private static boolean isPalindrome(String s) {
     return s.charAt(0) == s.charAt(2);
 }
